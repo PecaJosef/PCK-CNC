@@ -1,0 +1,14 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 66dbc8db-4556-4c23-963c-069cd1985e58)
+
+  (paper "A4")
+
+  (title_block
+    (title "CNC Controller")
+  )
+
+  (lib_symbols
+  )
+
+)
