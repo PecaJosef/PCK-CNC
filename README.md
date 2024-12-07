@@ -1,4 +1,6 @@
 # PCK-CNC
+![image](https://github.com/user-attachments/assets/69135873-30ab-4a09-9ef1-d75c3144040d)
+
 PCK-CNC is an open-source CNC router designed with accessibility and versatility in mind. This project is optimized for 3D printing, with a majority of its components being easily manufacturable on standard 3D printers. To enhance durability and precision, the design incorporates key aluminum parts.
 
 The project also includes the PCK Controller, an open-source, custom-designed controller powered by the grblHAL firmware. This controller supports advanced features, such as auto-squaring, which enhances repeatability and precision, ensuring reliable and consistent machining results.
