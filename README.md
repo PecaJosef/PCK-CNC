@@ -1,5 +1,5 @@
 # PCK-CNC
-![PCK_CNC_Render](Pictures/PCK-CNC Render.png)
+![PCK_CNC Render](Pictures/PCK-CNC Render.png)
 
 PCK-CNC is an open-source CNC router designed with accessibility and versatility in mind. This project is optimized for 3D printing, with a majority of its components being easily manufacturable on standard 3D printers. To enhance durability and precision, the design incorporates key aluminum parts.
 
