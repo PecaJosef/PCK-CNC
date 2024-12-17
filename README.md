@@ -5,6 +5,7 @@ PCK-CNC is an open-source CNC router designed to offer precision, reliability, a
 
 To achieve good accuracy and reliability, the PCK-CNC utilizes ballscrews and linear rails, delivering superior precision compared to belt-driven systems. It is equipped with an 800W spindle, controlled by a Variable Frequency Drive (VFD), allowing precise adjustments to spindle speed based on the material and cutting requirements. The machine is capable of milling plastics, wood, and aluminum, ensuring it meets the needs of various users and applications.
 
+![controller](Pictures/PCK-Controller.png)
 The PCK-CNC features an integrated electronics system, saving space and making the setup more compact and user-friendly. At the heart of the system is the PCK Controller, an open-source controller designed specifically for this project. It is powered by a 32-bit microprocessor, offering smooth and fast operation, and runs on the open-source grblHAL firmware. This advanced software enables features like Y-axis auto-squaring, which improves repeatability and precision during machining.
 The controller operates at 48V to manage higher motor speeds and directly interfaces with the VFD for spindle control. Safety and reliability are also priorities, the controller is galvanically isolated, protecting connected devices and computers from electrical faults. Additionally, it is designed to better withstand electromagnetic interference (EMI), ensuring stable and reliable operation.
 
